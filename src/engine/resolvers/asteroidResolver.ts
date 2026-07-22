@@ -12,7 +12,7 @@ export class AsteroidResolver {
       for (const provider of priority) {
         const match: any = valid.find((a: any) => a.sources.includes(provider) && a[field] !== undefined);
         if (match && match[field] !== undefined) {
-          merged[field] = match[field];
+          (merged as any)[field] = (match as any)[field];
           break;
         }
       }
