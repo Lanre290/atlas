@@ -1,4 +1,3 @@
-// src/providers/solarsystem/mapper.ts
 import { Planet } from '../../models/planet';
 
 export class SolarSystemMapper {

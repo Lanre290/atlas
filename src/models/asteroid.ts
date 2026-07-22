@@ -1,4 +1,3 @@
-// src/models/asteroid.ts
 export interface Asteroid {
   id: string;
   name: string;

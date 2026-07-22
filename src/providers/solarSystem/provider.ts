@@ -1,4 +1,3 @@
-// src/providers/solarsystem/provider.ts
 import { Provider } from '../../types/provider';
 import { Capability } from '../../types/capability';
 import { SolarSystemClient } from './client';

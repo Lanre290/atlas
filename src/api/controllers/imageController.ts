@@ -1,4 +1,3 @@
-// src/api/controllers/imageController.ts
 import { Request, Response } from 'express';
 import { QueryEngine } from '../../engine/query-engine/queryEngine';
 import { ImageResolver } from '../../engine/resolvers/imageResolver';

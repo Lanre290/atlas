@@ -1,4 +1,3 @@
-// src/providers/jpl/client.ts
 import axios from 'axios';
 
 export class JplClient {

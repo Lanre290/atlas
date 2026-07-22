@@ -1,4 +1,3 @@
-// src/engine/query-engine/queryEngine.ts
 import { Capability } from '../../types/capability';
 import { CapabilityRegistry } from '../registry/capabilityRegistry';
 import { Provider } from '../../types/provider';
@@ -40,7 +39,7 @@ export class QueryEngine {
         }
       })
     );
-    // Always return an array (one entry per provider)
+    // return an array (one entry per provider)
     return results.map(r => (r.status === 'fulfilled' ? r.value : null));
   }
 }

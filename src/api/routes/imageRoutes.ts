@@ -1,4 +1,3 @@
-// src/api/routes/imageRoutes.ts
 import { Router } from 'express';
 import { ImageController } from '../controllers/imageController';
 

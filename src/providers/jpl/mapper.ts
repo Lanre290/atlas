@@ -1,4 +1,3 @@
-// src/providers/jpl/mapper.ts
 import { Asteroid } from '../../models/asteroid';
 
 export class JplMapper {

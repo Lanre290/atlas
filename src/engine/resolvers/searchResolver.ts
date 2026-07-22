@@ -1,4 +1,3 @@
-// src/engine/resolvers/searchResolver.ts
 import { SearchResult } from '../../models/searchResult';
 
 export class SearchResolver {

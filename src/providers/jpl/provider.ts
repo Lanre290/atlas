@@ -1,4 +1,3 @@
-// src/providers/jpl/provider.ts
 import { Provider } from '../../types/provider';
 import { Capability } from '../../types/capability';
 import { JplClient } from './client';

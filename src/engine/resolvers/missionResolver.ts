@@ -1,4 +1,3 @@
-// src/engine/resolvers/missionResolver.ts
 import { Mission } from '../../models/mission';
 
 export class MissionResolver {

@@ -1,4 +1,3 @@
-// src/api/controllers/asteroidController.ts
 import { Request, Response } from 'express';
 import { QueryEngine } from '../../engine/query-engine/queryEngine';
 import { AsteroidResolver } from '../../engine/resolvers/asteroidResolver';

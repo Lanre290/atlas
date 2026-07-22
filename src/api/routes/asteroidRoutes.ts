@@ -1,4 +1,3 @@
-// src/api/routes/asteroidRoutes.ts
 import { Router } from 'express';
 import { AsteroidController } from '../controllers/asteroidController';
 

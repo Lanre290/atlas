@@ -1,4 +1,3 @@
-// src/engine/resolvers/planetResolver.ts
 import { Planet } from '../../models/planet';
 
 export class PlanetResolver {

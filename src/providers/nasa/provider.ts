@@ -1,4 +1,3 @@
-// src/providers/nasa/provider.ts
 import { Provider } from '../../types/provider';
 import { Capability } from '../../types/capability';
 import { NasaClient } from './client';

@@ -1,4 +1,3 @@
-// src/providers/nasa/client.ts
 import axios from 'axios';
 
 export class NasaClient {

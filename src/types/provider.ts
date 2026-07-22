@@ -1,4 +1,3 @@
-// src/types/provider.ts
 import { Capability } from './capability';
 import { Planet } from '../models/planet';
 import { Mission } from '../models/mission';

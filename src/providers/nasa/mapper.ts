@@ -1,4 +1,3 @@
-// src/providers/nasa/mapper.ts
 import { Image } from '../../models/image';
 import { Asteroid } from '../../models/asteroid';
 import { Mission } from '../../models/mission';

@@ -1,4 +1,4 @@
-// src/models/planet.ts
+
 export interface Planet {
   id: string;
   name: string;

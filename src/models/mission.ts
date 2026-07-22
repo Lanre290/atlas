@@ -1,4 +1,3 @@
-// src/models/mission.ts
 export interface Mission {
   id: string;
   name: string;

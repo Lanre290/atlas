@@ -1,4 +1,3 @@
-// src/engine/registry/capabilityRegistry.ts
 import { Capability } from '../../types/capability';
 import { Provider } from '../../types/provider';
 

@@ -1,4 +1,3 @@
-// src/models/entity.ts
 export interface Entity {
   id: string; // A unique Atlas-generated ID
   name: string;

@@ -1,4 +1,3 @@
-// src/api/routes/missionRoutes.ts
 import { Router } from 'express';
 import { MissionController } from '../controllers/missionController';
 

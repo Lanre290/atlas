@@ -1,4 +1,3 @@
-// src/app.ts
 import express from 'express';
 import { createPlanetRoutes } from './api/routes/planetRoutes';
 import { PlanetController } from './api/controllers/planetController';

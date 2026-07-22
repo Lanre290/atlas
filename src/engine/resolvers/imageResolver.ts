@@ -1,4 +1,3 @@
-// src/engine/resolvers/imageResolver.ts
 import { Image } from '../../models/image';
 
 export class ImageResolver {

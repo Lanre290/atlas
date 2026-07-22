@@ -1,4 +1,3 @@
-// src/engine/resolvers/asteroidResolver.ts
 import { Asteroid } from '../../models/asteroid';
 
 export class AsteroidResolver {
@@ -11,7 +10,7 @@ export class AsteroidResolver {
     const merged: Asteroid = { ...valid[0], sources: [] };
     for (const field of Object.keys(merged)) {
       for (const provider of priority) {
-        const match = valid.find(a => a.sources.includes(provider) && a[field] !== undefined);
+        const match: any = valid.find((a: any) => a.sources.includes(provider) && a[field] !== undefined);
         if (match && match[field] !== undefined) {
           merged[field] = match[field];
           break;
