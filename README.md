@@ -1,4 +1,4 @@
-# 🚀 Atlas
+# Atlas
 
 > **The Developer Platform for Space Data.**
 >
